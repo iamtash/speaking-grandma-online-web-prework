@@ -19,3 +19,4 @@ def speak_to_grandma(say_to_grandma)
   else
     "HUH?! SPEAK UP, SONNY!"
 end
+speak_to_grandma(say_to_grandma)
